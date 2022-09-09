@@ -1,0 +1,21 @@
+<svg
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns="http://www.w3.org/2000/svg"
+    width="1920"
+    height="1080"
+    viewBox="0 0 1920 1080"
+>
+    <filter id="blur">
+        <feGaussianBlur in="SourceGraphic" stdDeviation="5" />
+    </filter>
+
+    <image
+        filter="url(#blur)"
+        xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABQODxIPDRQSEBIXFRQYHjIhHhwcHj0sLiQySUBMS0dARkVQWnNiUFVtVkVGZIhlbXd7gYKBTmCNl4x9lnN+gXz/2wBDARUXFx4aHjshITt8U0ZTfHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHz/wAARCAA4AGQDASIAAhEBAxEB/8QAGQABAQEBAQEAAAAAAAAAAAAAAAECAwQG/8QAIRAAAgICAgMAAwAAAAAAAAAAAAECERIhMUEDBFEUYXH/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQID/8QAGREBAQEBAQEAAAAAAAAAAAAAABEBEgIh/9oADAMBAAIRAxEAPwD5BLs1Fdji6FM65iEglRqMJSeKV0HGS09P4biMtEcWknWnwbSVfWRxaQ5GKFHSMGzNDkYFGqIZgyCh1euP2Z3FZBQZiuqrlmlRzsp2xl3c1aa57JPyZO6o5Fbvqv4dOtRexQSOkIq6lpDPowZke324etFx/G8k5qt5RqmeOrfA9ZBgh0xI40Yg5tENtGaM6rIKDCqmVM52LGeiOtlRyyGRrtI7KVFzOGRci9kdsyp2cMiqY7I75JPRHL4cMyqZOyOsuLOZnNky2TfRGgZsGarIAMKAAAAAAAAAAAAAAAA//9k="
+        x="0"
+        y="0"
+        height="100%"
+        width="100%"
+        preserveAspectRatio="none"
+    />
+</svg>
