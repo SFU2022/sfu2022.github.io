@@ -2087,7 +2087,7 @@
     "/assets/Mortend-Bold.ea526a6e.otf",
     "/assets/Mortend-Bold.7d5474bc.ttf"
   ],
-  "src/components/AppButton.vue?vue&type=script&setup=true&lang.ts": [
+  "~icons/mi/enter": [
     "/assets/1.052e9a6d.svg",
     "/assets/2.49d79668.svg",
     "/assets/3.bb3c3e3a.svg",
@@ -2123,7 +2123,7 @@
     "/assets/Mortend-Bold.ea526a6e.otf",
     "/assets/Mortend-Bold.7d5474bc.ttf"
   ],
-  "~icons/mi/enter": [
+  "src/components/AppButton.vue?vue&type=script&setup=true&lang.ts": [
     "/assets/1.052e9a6d.svg",
     "/assets/2.49d79668.svg",
     "/assets/3.bb3c3e3a.svg",
